@@ -1,0 +1,1 @@
+Ladda upp alla filer och mappar till GitHub-repositoryts rot. index.html ska ligga direkt i roten. Aktivera Settings → Pages → Deploy from a branch → main → / (root). Behåll filnamn och mappstruktur. Offertformuläret öppnar besökarens mejlprogram. Den nya inspirationsbilden från Unsplash ingår i två storlekar.
